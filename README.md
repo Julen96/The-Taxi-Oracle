@@ -17,11 +17,8 @@ Other external factors that have to be considered to design the best model inclu
 - Deploying the exact number of taxi drivers in the pickup community will avoid wasting resources of the company and result in overall good customer satisfaction. 
 
 ### Authors:
-- Daniel Suarez Souto
 - Julen Arizaga Echebarria
-- Abhishek Singh
+- Daniel Suarez Souto
 - Alexis Gaziello
+- Abhishek Singh
 - Anurag Gunti
-
-
-
